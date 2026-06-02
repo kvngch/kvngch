@@ -12,6 +12,6 @@ and audit tooling.
 
 **Reach me**
 
-[LinkedIn](https://www.linkedin.com/in/kevin-gachie/) · gachie.kev@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kevin-gachie/)
 
 `TypeScript` `React` `Next.js` `Swift` `Kotlin` `Node` `Python` `Docker` `PostgreSQL` `Shopify`
