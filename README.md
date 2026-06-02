@@ -1,4 +1,4 @@
-# Kevin Gachie
+# Kévin Gachie
 
 > I build for web, mobile and desktop, with a specialty in e-commerce.
 
