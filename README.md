@@ -5,10 +5,9 @@
 **What I do**
 
 I work across the stack and across platforms: web apps (TypeScript, React,
-Next.js, Astro), native mobile (Swift, Kotlin), desktop apps (Swift, .NET,
+Next.js, Astro etc.), native mobile (Swift, Kotlin), desktop apps (Swift, .NET,
 Tauri) and browser extensions, plus the backend and cloud infrastructure
-behind them. My specialty is e-commerce: Shopify storefronts, migrations
-and audit tooling.
+behind them.
 
 **Reach me**
 
