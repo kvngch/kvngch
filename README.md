@@ -17,13 +17,14 @@ calls for it.
 **Desktop.** Native applications for macOS and Windows, in Swift and .NET, plus Tauri when
 a web core suits the product.
 
-**E-commerce.** Shopify storefronts and the plumbing around them: catalogue and inventory
-sync, marketing and ads gateways, ERP connections.
+**E-commerce.** My main specialty: WordPress and WooCommerce, PrestaShop, and custom
+development on Shopify. Themes and apps, catalogue and inventory sync, marketing and ads
+gateways, ERP connections.
 
 ## Stack
 
 `TypeScript` `React` `Next.js` `Astro` `Node` `PHP` `Laravel` `Swift` `Kotlin`
-`Jetpack Compose` `.NET` `Tauri` `Python` `PostgreSQL` `Docker` `Shopify`
+`Jetpack Compose` `.NET` `Tauri` `Python` `PostgreSQL` `Docker` `WordPress` `WooCommerce` `PrestaShop` `Shopify`
 
 ## Reach me
 
