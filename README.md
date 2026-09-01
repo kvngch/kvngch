@@ -20,13 +20,10 @@ a web core suits the product.
 **E-commerce.** Shopify storefronts and the plumbing around them: catalogue and inventory
 sync, marketing and ads gateways, ERP connections.
 
-**Operations.** Deployment, monitoring and backups for the above, on self-hosted ARM
-machines as well as managed platforms.
-
 ## Stack
 
 `TypeScript` `React` `Next.js` `Astro` `Node` `PHP` `Laravel` `Swift` `Kotlin`
-`Jetpack Compose` `.NET` `Tauri` `Python` `PostgreSQL` `Docker` `Caddy` `Shopify`
+`Jetpack Compose` `.NET` `Tauri` `Python` `PostgreSQL` `Docker` `Shopify`
 
 ## Reach me
 
