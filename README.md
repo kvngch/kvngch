@@ -21,10 +21,15 @@ a web core suits the product.
 development on Shopify. Themes and apps, catalogue and inventory sync, marketing and ads
 gateways, ERP connections.
 
+**CMS and content sites.** WordPress, including custom plugin development, and Joomla on
+the classic side. Headless where it fits: Sanity for the content, Astro for the front end.
+
 ## Stack
 
-`TypeScript` `React` `Next.js` `Astro` `Node` `PHP` `Laravel` `Swift` `Kotlin`
-`Jetpack Compose` `.NET` `Tauri` `Python` `PostgreSQL` `Docker` `WordPress` `WooCommerce` `PrestaShop` `Shopify`
+`TypeScript` `React` `Next.js` `Astro` `Node` `PHP` `Laravel` `Python`
+`Swift` `Kotlin` `Jetpack Compose` `.NET` `Tauri`
+`WordPress` `WooCommerce` `Joomla` `Sanity` `PrestaShop` `Shopify`
+`PostgreSQL` `Docker`
 
 ## Reach me
 
