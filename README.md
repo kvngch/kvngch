@@ -1,37 +1,56 @@
-# Kévin Gachie
+```
+ _                            _
+| | ____   ___ __   __ _  ___| |__
+| |/ /\ \ / / '_ \ / _` |/ __| '_ \
+|   <  \ V /| | | | (_| | (__| | | |
+|_|\_\  \_/ |_| |_|\__, |\___|_| |_|
+                   |___/
 
-Software developer in Marseille, France. I handle the technical side of
-[E-Corp](https://ecorp-agency.com), a development studio, and build the products it
-publishes.
+kvn@marseille
+-------------------------------------------------------
+name .......... Kévin Gachie
+role .......... software developer
+studio ........ E-Corp, and the products it publishes
+domains ....... e-commerce, business apps, mobile, desktop, CMS
+languages ..... TypeScript, PHP, Python, Swift, Kotlin, C#
+data .......... PostgreSQL
+location ...... Marseille, France
+```
 
-## What I work on
+```
+$ tree ~/work -L 1 --desc
 
-**Business applications.** Scheduling, activity tracking, back offices, client portals:
-the tools a company runs on day to day. TypeScript and React on the front, Node or PHP
-behind, PostgreSQL underneath.
+~/work
+├── business-apps/  scheduling, tracking, back offices, portals
+│                   TypeScript, React, Node or PHP, PostgreSQL
+│
+├── mobile/         iOS and Android, native or cross-platform
+│                   Swift, Kotlin, Compose, on-device and offline
+│
+├── desktop/        macOS and Windows
+│                   Swift, .NET, Tauri when a web core fits
+│
+├── e-commerce/     storefronts and the plumbing behind them
+│                   WooCommerce, PrestaShop, Shopify themes and
+│                   apps, catalogue sync, ads and ERP connections
+│
+└── cms/            content sites and custom plugins
+                    WordPress, Joomla, headless Sanity + Astro
+```
 
-**Mobile.** iOS and Android, native or cross-platform. Swift on one side, Kotlin and
-Jetpack Compose on the other, with on-device processing and offline use when the context
-calls for it.
+```
+$ cat ~/.stack
 
-**Desktop.** Native applications for macOS and Windows, in Swift and .NET, plus Tauri when
-a web core suits the product.
+front ....... TypeScript  React  Next.js  Astro
+back ........ Node  PHP  Laravel  Python  .NET
+mobile ...... Swift  Kotlin  Jetpack Compose  Tauri
+commerce .... WooCommerce  PrestaShop  Shopify
+content ..... WordPress  Joomla  Sanity
+infra ....... PostgreSQL  Docker
+```
 
-**E-commerce.** My main specialty: WordPress and WooCommerce, PrestaShop, and custom
-development on Shopify. Themes and apps, catalogue and inventory sync, marketing and ads
-gateways, ERP connections.
+```
+$ contact --list
+```
 
-**CMS and content sites.** WordPress, including custom plugin development, and Joomla on
-the classic side. Headless where it fits: Sanity for the content, Astro for the front end.
-
-## Stack
-
-`TypeScript` `React` `Next.js` `Astro` `Node` `PHP` `Laravel` `Python`
-`Swift` `Kotlin` `Jetpack Compose` `.NET` `Tauri`
-`WordPress` `WooCommerce` `Joomla` `Sanity` `PrestaShop` `Shopify`
-`PostgreSQL` `Docker`
-
-## Reach me
-
-[ecorp-agency.com](https://ecorp-agency.com) · [kvngch.fr](https://kvngch.fr) ·
-[LinkedIn](https://www.linkedin.com/in/kevin-gachie/)
+[ecorp-agency.com](https://ecorp-agency.com) · [kvngch.fr](https://kvngch.fr) · [LinkedIn](https://www.linkedin.com/in/kevin-gachie/)
